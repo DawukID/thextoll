@@ -13,8 +13,8 @@ echo "\033[032m                  ___ _  _ ____    _  _    ___ ____ ____ _    ___
 echo "\033[032m                   |  |__| |___     \/      |  |  | |  | |    [__  "
 echo "\033[032m                   |  |  | |___    _/\_     |  |__| |__| |___ ___]"
 echo $m"   ▄    ▄▄▄▄▄▄▄    ▄ " $y"+"$h"------------------------------------------"$y"+"
-echo $m"  ▀▀▄ ▄█████████▄ ▄▀▀" $y"[" $hehe"Coded By"$m":" $s"FàhmiApz"$y"                       ]"
-echo $m"      ██ ▀███▀ ██     "$y"[" $hehe"Youtube" $m":" $s"ApmzChannel"$y"                    ]"
+echo $m"  ▀▀▄ ▄█████████▄ ▄▀▀" $y"[" $hehe"Coded By"$m":" $s"Dawuk ID"$y"                       ]"
+echo $m"      ██ ▀███▀ ██     "$y"[" $hehe"Facebook" $m":" $s"Satria ID"$y"                    ]"
 echo $m "   ▄ ▀████▀████▀ ▄   "$y"[" $hehe"Github"  $m" :" $asu"https://github.com/BangDanz  "$y"  ]"
 echo $m"  ▀█    ██▀█▀██    █▀ "$y"+"$h"------------------------------------------"$y"+"
 echo
